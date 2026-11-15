@@ -1,0 +1,8 @@
+.idea/
+.venv/
+.claude/
+
+__pycache__/
+
+# Rider profiles (personal measurements)
+profiles/
