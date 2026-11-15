@@ -4,6 +4,8 @@ A small CLI that turns three body measurements into **saddle and handlebar coord
 
 Instead of recommending a frame size or a stem length, it outputs where the contact points should be, in millimetres from the bottom bracket. It also shows how the handlebar position shifts with riding style and flexibility.
 
+![Example output of ./bikefit.py rider --bar drop --crank 172.5](docs/example.svg)
+
 > An 80/20 model: a transparent, simple kinematic estimate, not a substitute for a professional bike fit. Treat results as a starting point.
 
 ## Quick start
